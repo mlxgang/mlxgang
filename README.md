@@ -1,4 +1,4 @@
-### Hi there 👋
+привет всем учусь писать на js
 
 <!--
 **mlxgang/mlxgang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
