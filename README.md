@@ -1,4 +1,4 @@
-привет всем учусь писать на js/vue/ts
+привет всем пишу на js/react
 
 <!--
 **mlxgang/mlxgang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
